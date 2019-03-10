@@ -3,13 +3,13 @@
 Humans can intuitively understand what kind of crime is likely to happen in a street just by looking at it. In this hack project, I'm trying Deep Learning to predict crime level and crime category of a street just using the Google Street View images. Our hypothesis was that we could train a CNN to learn this “intuition”. I achieved an accuracy of **95%** in this process
 
 
-**Order of notebooks:** 
+### Order of notebooks 
 - Hack Day Data Gen.ipynb
 - Data Gen - Street View Images Pull.ipynb
 - SF Crime.ipynb
 
 
-**Methodlogy:**
+### Methodlogy
 - Collect Crime Data for a City like San Francisco frm SFPD data portal
 - Get a metric of crime level for each street in San Francisco
   ![Crime in SF](https://github.com/athuly/Crime_Prediction_4m_Street_Images/blob/master/Images/download%20(1).png)
